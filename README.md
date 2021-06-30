@@ -1,2 +1,2 @@
 # CSE431
-nlp labs and projets will be here
+NLP CSE431 labs and projets will be here
